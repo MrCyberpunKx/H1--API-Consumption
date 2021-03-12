@@ -21,7 +21,7 @@ To start with the project, I installed Node.js, used CMD, and typed the followin
 #### c: \> cd my-react-app
 #### c: \> my-react-app \> yarn start
 
-# Svenka:
+# Svenska:
 Webbapplikation skapad med intuitionen att representera tre kurser från den Senai Suiço-Brasileiro tekniska skolan.
 Denna applikation används av Reagera, som är ett JavaScript-bibliotek med öppen källkod tillgängligt på Facebook.
 Svara på dem objektivt genom att skapa användargränssnitt (UI) på webbsidor.
